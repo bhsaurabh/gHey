@@ -1,0 +1,14 @@
+First setup:
+Run registerUser.py
+This will write a file user_credentials.txt to disk which will have your username and an encrypted version of your password
+
+To run server:
+python ghey.py &
+
+
+To send messages:
+python hey.py <space separated list of receivers>
+<message>
+Ctrl+D
+
+
