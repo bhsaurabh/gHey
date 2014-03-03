@@ -1,3 +1,5 @@
+I basically created this project to learn about event-driven programming. It is a command line tool to work with Jabber/Google talk
+
 First setup:
 Run registerUser.py
 This will write a file user_credentials.txt to disk which will have your username and an encrypted version of your password
